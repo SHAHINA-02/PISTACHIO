@@ -10,7 +10,7 @@
 
 ### A High-Performance Scroll-Driven Animation Landing Page — Built for the UAE Market.
 
-**LIVE DEMO :** http://pistachio-ivory.vercel.app
+**LIVE DEMO** : http://pistachio-ivory.vercel.app 
 SCREENSHOTS-
 ---
 
