@@ -12,7 +12,17 @@
 
 LIVE DEMO : http://pistachio-ivory.vercel.app 
 
-SCREENSHOTS-https://github.com/SHAHINA-02/PISTACHIO/blob/a23a5185e0390a4aa55d79a21b736618271c5799/GALAXY-SC/Screenshot%202026-04-30%20180054.png
+SCREENSHOTS
+<img width="1909" height="872" alt="Screenshot 2026-04-30 180054" src="https://github.com/user-attachments/assets/c5236911-c53e-4828-9a71-50d20e70933f" />
+<img width="1895" height="876" alt="Screenshot 2026-04-30 180118" src="https://github.com/user-attachments/assets/700cad89-7e9c-4c98-b6da-a4d93b048751" />
+<img width="1889" height="879" alt="Screenshot 2026-04-30 180131" src="https://github.com/user-attachments/assets/ad645cf9-46fc-4388-9d8f-d4c4aba25e66" />
+<img width="1895" height="863" alt="Screenshot 2026-04-30 180143" src="https://github.com/user-attachments/assets/70d91cfe-b817-468d-bf67-640e0c31b710" />
+<img width="1883" height="853" alt="Screenshot 2026-04-30 180153" src="https://github.com/user-attachments/assets/e7b3fac9-7db1-4eb3-9f69-1714ced47a29" />
+
+
+
+
+
 
 ## ABOUT
 
